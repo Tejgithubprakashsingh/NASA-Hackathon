@@ -1,0 +1,2 @@
+Architecture diagram of the proposed solution
+Here is the architecture diagram for the Seismic Detection Across the Solar System solution. It illustrates the deployment of seismometers across various celestial bodies, communication satellites for data transmission, a central Earth-based control center, and systems for data analysis and visualization.

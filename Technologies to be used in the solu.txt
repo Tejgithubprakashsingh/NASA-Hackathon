@@ -1,0 +1,16 @@
+Technologies to be used in the solution
+1. Spacecraft Technologies
+Solar Panels: Primary power source for spacecraft, providing energy for instruments and communication systems.
+Nuclear Power: Backup power source, especially for missions to distant planets or moons.
+Ion Propulsion: Efficient propulsion system for long-duration missions.
+2. Seismometer Technologies
+Broadband Seismometers: Sensitive instruments capable of measuring a wide range of seismic waves.
+Accelerometers: Measure ground acceleration caused by seismic events.
+Autonomous Power Supplies: Batteries or fuel cells for independent operation.
+3. Data Processing and Analysis Technologies
+Signal Processing Algorithms: Advanced algorithms for filtering, noise reduction, and feature extraction from seismic data.
+4. Other Technologies:
+Machine Learning: Techniques for automated pattern recognition and anomaly detection in seismic data.
+Artificial Intelligence: Intelligent systems for decision-making and problem-solving in real-time.
+
+

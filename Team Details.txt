@@ -1,0 +1,6 @@
+Team Details
+
+Team name: The Super Visioner
+Team leader name: Tej Prakash Singh
+Problem Statement: Seismic Detection Across the Solar System
+

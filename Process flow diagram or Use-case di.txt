@@ -1,0 +1,28 @@
+Process flow diagram or Use-case diagram
+This diagram provides a simplified overview of the process. Actual implementation may involve additional steps and complexities
+Mission Planning:
+
+Identify target celestial bodies (e.g., Moon, Mars, Venus, Io).
+Design and develop seismometers suitable for the target environments.
+Plan launch and deployment strategies.
+Launch and Deployment:
+
+Launch spacecraft carrying seismometers to the target celestial bodies.
+Deploy seismometers on the surface or subsurface of the target.
+Data Collection:
+
+Seismometers continuously monitor seismic activity and record data.
+Data is stored locally on the spacecraft or transmitted back to Earth.
+Data Transmission:
+
+Seismic data is transmitted back to Earth via communication channels (e.g., radio waves).
+Data may be compressed or encoded for efficient transmission.
+Data Processing and Analysis:
+
+Data is received and processed on Earth.
+Algorithms are used to identify and analyze seismic events.
+Data is compared with models of planetary interiors and tectonic processes.
+Scientific Interpretation:
+
+Scientists interpret the seismic data to gain insights into planetary structure, dynamics, and evolution.
+Discoveries and findings are published and shared with the scientific community.

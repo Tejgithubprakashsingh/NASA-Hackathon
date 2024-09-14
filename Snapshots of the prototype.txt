@@ -1,0 +1,12 @@
+Snapshots of the prototype
+These are hypothetical images based on common design elements for space-based instruments. Actual prototypes may vary in appearance and specific features.
+Description: A seismometer mounted on a spacecraft, ready for deployment on a celestial body.
+
+Description: A close-up view of the internal components of a seismometer, including sensors, electronics, and data storage.
+Description: A spacecraft landing on a planet, deploying a seismometer on the surface.
+
+Description: A visualization of seismic data collected by the prototype, showing the amplitude and frequency of seismic waves.
+Additional Considerations:
+Size and Weight: The prototype must be designed to be compact and lightweight for efficient transportation and deployment.
+Durability: The instruments must be able to withstand the harsh conditions of space, including extreme temperatures, radiation, and microgravity.
+
